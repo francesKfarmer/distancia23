@@ -3,7 +3,7 @@
  * Descripción del script:
  * Este script contiene dos funciones para realizar operaciones de suma y resta.
  * Autor/a:Marina Segura
- * Versión: 1.0.0
+ * Versión: 1.5.3
  *
  * Etiquetas:
  * @category Scripts
